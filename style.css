@@ -1,0 +1,7 @@
+
+body{
+    background-image: url("https://media.istockphoto.com/id/1032083272/photo/yellow-background.jpg?s=612x612&w=0&k=20&c=14yIxLzhy8X8szF0ZhhLiB433U6xJZhV-SlyiiljU6Q=");
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+}
+
